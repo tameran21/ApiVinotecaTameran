@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ApiVinotecaTameran
+    env: dotnet
+    buildCommand: 'dotnet publish -c Release -o out'
+    startCommand: 'dotnet out/ApiVinotecaTameran.dll'
+    autoDeploy: true
+    envVars:
+      ASPNETCORE_ENVIRONMENT: "Production" # O el entorno que necesites

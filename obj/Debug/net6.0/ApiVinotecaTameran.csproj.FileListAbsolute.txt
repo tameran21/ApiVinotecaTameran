@@ -37,3 +37,43 @@ C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacio
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.pdb
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.genruntimeconfig.cache
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\ApiVinotecaTameran\obj\Debug\net6.0\ref\ApiVinotecaTameran.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\appsettings.Development.json
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\appsettings.json
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\ApiVinotecaTameran.exe
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\ApiVinotecaTameran.deps.json
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\ApiVinotecaTameran.runtimeconfig.json
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\ApiVinotecaTameran.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\ApiVinotecaTameran.pdb
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\DnsClient.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\MongoDB.Bson.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\MongoDB.Driver.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\SharpCompress.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\Snappier.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Desarrollo\ApiVinotecaTameran\bin\Debug\net6.0\ZstdSharp.dll
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.csproj.AssemblyReference.cache
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.AssemblyInfoInputs.cache
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.AssemblyInfo.cs
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.csproj.CoreCompileInputs.cache
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.MvcApplicationPartsAssemblyInfo.cs
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.MvcApplicationPartsAssemblyInfo.cache
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.sourcelink.json
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets.build.json
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets.development.json
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets\msbuild.ApiVinotecaTameran.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiVinotecaTameran.props
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiVinotecaTameran.props
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiVinotecaTameran.props
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\scopedcss\bundle\ApiVinotecaTameran.styles.css
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinot.E72DFE58.Up2Date
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.dll
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\refint\ApiVinotecaTameran.dll
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.pdb
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ApiVinotecaTameran.genruntimeconfig.cache
+G:\Desarrollo\ApiVinotecaTameran\obj\Debug\net6.0\ref\ApiVinotecaTameran.dll

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj": {}
+    "G:\\Desarrollo\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj": {
+    "G:\\Desarrollo\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj",
+        "projectUniqueName": "G:\\Desarrollo\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj",
         "projectName": "ApiVinotecaTameran",
-        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj",
-        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\obj\\",
+        "projectPath": "G:\\Desarrollo\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj",
+        "packagesPath": "C:\\Users\\Jona\\.nuget\\packages\\",
+        "outputPath": "G:\\Desarrollo\\ApiVinotecaTameran\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -29,8 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://packages.nuget.org/v1/FeedService.svc/": {},
-          "https://pkgs.dev.azure.com/Comfama/Tecnologia/_packaging/FrameworkComfama/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -42,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
