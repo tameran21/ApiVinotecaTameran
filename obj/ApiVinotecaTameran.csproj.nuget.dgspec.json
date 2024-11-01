@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj",
+        "projectName": "ApiVinotecaTameran",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\ApiVinotecaTameran.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\ApiVinotecaTameran\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://packages.nuget.org/v1/FeedService.svc/": {},
+          "https://pkgs.dev.azure.com/Comfama/Tecnologia/_packaging/FrameworkComfama/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
